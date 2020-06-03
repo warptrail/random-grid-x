@@ -1,0 +1,37 @@
+body {
+    background-color: darkcyan;
+}
+
+#header {
+    background: rgba(55, 244, 52, 1);
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 20px;
+}
+
+#header button{
+    background-color: rgba(100, 197, 99, 1);
+    color:darkblue;
+    margin: 5px;
+    
+}
+
+#logcontainer {
+
+    display: flex;
+    justify-content: left;
+    text-align: left;
+    width: 80px;
+    margin-left: 20px;
+}
+
+.newNum {
+    background-color: chartreuse;
+    margin: 5px;
+}
+
+.randomC {
+    width: 300px;
+    margin: 0 1em;
+}
+
